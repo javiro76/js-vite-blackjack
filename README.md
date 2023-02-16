@@ -11,3 +11,7 @@ Pasos para ejecutar el proyecto:
 
 1. Ejecutar ´´´ npm run build '''
 2. Tomar la carpeta '''dist''' y desplegarla 
+
+### Puedes ver el proyecto en el siguiente link:
+
+https://javiro76.github.io/js-vite-blackjack/
